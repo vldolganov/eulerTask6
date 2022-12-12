@@ -1,3 +1,0 @@
-class Componeent{
-    constructor(selector)
-}
